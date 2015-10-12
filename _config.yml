@@ -1,6 +1,7 @@
 name: Darknet Drugs
 favicon: null
 layout_spectrum: 0.8
+title: Darknet Drugs
 cta:
   domain: null
   bucket: null
