@@ -1,6 +1,7 @@
 name: Darknet Drugs
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5541
+typography_spectrum: 0.51475
 title: Darknet Drugs
 cta:
   domain: null
